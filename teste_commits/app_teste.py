@@ -1,3 +1,3 @@
 print("testando o python")
-nome = "viny"
+nome = "Viny Tech"
 print(nome)
